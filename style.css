@@ -1,5 +1,8 @@
+body {text-align: center;
+    margin-left: auto;
+    margin-right: auto;}
+ol {text-align: left;}
 #wrapper {margin-left: auto;
-    margin-right: auto;
-    width: 80%;}
-header {text-align: center;}
-main {text-align: left;}
+  margin-right: auto;
+  width: 80%;}
+h2 {text-align: left;}
